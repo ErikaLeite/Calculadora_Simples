@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\bin\Debug\netcoreapp3.1\Calculadora_Simples.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Calculadora_Simples\obj\Debug\netcoreapp3.1\Calculadora_Simples.genruntimeconfig.cache
